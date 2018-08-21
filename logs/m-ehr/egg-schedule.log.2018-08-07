@@ -1,0 +1,34 @@
+2018-08-07 11:18:29,439 INFO 5981 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 11:18:29,440 INFO 5981 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 11:22:56,186 INFO 6113 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 11:22:56,187 INFO 6113 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 14:03:42,663 INFO 8011 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 14:03:42,664 INFO 8011 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 15:09:32,273 INFO 10444 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 15:09:32,274 INFO 10444 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 15:18:14,375 INFO 10666 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 15:18:14,375 INFO 10666 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 15:20:58,851 INFO 10757 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 15:20:58,851 INFO 10757 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 15:23:06,784 INFO 10814 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 15:23:06,785 INFO 10814 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 15:26:00,553 INFO 10971 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 15:26:00,554 INFO 10971 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 16:06:17,272 INFO 11334 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 16:06:17,273 INFO 11334 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 16:08:58,929 INFO 11442 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 16:08:58,930 INFO 11442 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 17:38:35,050 INFO 14153 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 17:38:35,051 INFO 14153 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 17:39:51,946 INFO 14240 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 17:39:51,947 INFO 14240 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-08 00:00:00,062 INFO 14240 [153365760006071029598607719] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js triggered, send random by agent
+2018-08-08 00:00:00,076 INFO 14240 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-09 00:00:00.000
+2018-08-08 00:00:00,076 INFO 16458 [153365760006071029598607719] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js task received by app
+2018-08-08 00:00:00,078 INFO 16458 [153365760006071029598607719] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2018-08-08 00:00:00,086 INFO 16458 [153365760006071029598607719] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 7ms
+2018-08-08 00:00:01,067 INFO 16458 [153365760106671030603339028] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js task received by app
+2018-08-08 00:00:01,067 INFO 16458 [153365760106671030603339028] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2018-08-08 00:00:01,072 INFO 16458 [153365760106671030603339028] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 5ms
+2018-08-08 00:00:01,066 INFO 14240 [153365760106671030603339028] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js triggered, send random by agent
+2018-08-08 00:00:01,069 INFO 14240 [Timer] /Users/hezhuopeng/Desktop/m-ehr/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-09 00:00:01.000
